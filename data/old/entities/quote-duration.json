@@ -1,0 +1,9 @@
+{
+  "id": "e5baa9b9-5328-4000-9f56-78af805abd22",
+  "name": "quote-duration",
+  "isOverridable": true,
+  "isEnum": true,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

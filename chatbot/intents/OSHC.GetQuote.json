@@ -1,0 +1,86 @@
+{
+  "id": "4ea06220-c3c1-43c2-8eb3-267844afea8a",
+  "name": "OSHC.GetQuote",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "OSHCGetQuote-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "346f92c4-32e9-4ff4-b43f-29ee32d79133",
+          "required": true,
+          "dataType": "@quote-duration",
+          "name": "duration",
+          "value": "$duration",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "5fef05c5-d26b-4fc3-b3a6-b96095f1789f",
+          "required": true,
+          "dataType": "@quote-boolean",
+          "name": "partner",
+          "value": "$partner",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Will you need cover for your partner( if you have any)?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "ec622d00-0028-49b0-9489-fd2e45cba6d6",
+          "required": true,
+          "dataType": "@quote-boolean",
+          "name": "child",
+          "value": "$child",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Will you need cover for children( if you have any)?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

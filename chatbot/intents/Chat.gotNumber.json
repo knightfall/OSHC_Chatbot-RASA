@@ -1,0 +1,39 @@
+{
+  "id": "eb259d54-d72d-45ac-a7c8-cda41f318f42",
+  "name": "Chat.gotNumber",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7fbb5419-02cc-43d4-8880-6c2c1effd84f",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

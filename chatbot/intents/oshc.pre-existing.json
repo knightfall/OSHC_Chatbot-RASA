@@ -1,0 +1,31 @@
+{
+  "id": "e1db98fb-a826-490f-a4de-23258318d2db",
+  "name": "oshc.pre-existing",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "A pre-existing condition is an ailment, illness or condition, the signs or symptoms of which, in the opinion of a Medical Practitioner, existed in the 6 months prior to you arriving in Australia or your visa being granted, whichever date is later."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "f312c388-f447-4be4-9f61-23dff67a66e0",
+    "data": [
+      {
+        "text": "where do I get it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fca31c78-9534-448b-a976-bcde639dfb90",
+    "data": [
+      {
+        "text": "how to get it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7cb91840-03aa-4025-8e88-2d72b4253480",
+    "data": [
+      {
+        "text": "where can I get OSHC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "45f57dad-14d0-4edc-a1d6-b510970985c5",
+    "data": [
+      {
+        "text": "How can I avail it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a597c5ae-cb13-4093-9f3e-0ac0b818e1cf",
+    "data": [
+      {
+        "text": "How can I get it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6ea959ec-0e92-423e-931c-1874b3305be6",
+    "data": [
+      {
+        "text": "What is the procedure to have insurance?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "b004aea6-27b3-45d8-af2b-46d65b5b5256",
+    "data": [
+      {
+        "text": "Does oshc cover pregnancy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a998c83c-555d-4919-992e-065d9cd451cd",
+    "data": [
+      {
+        "text": "Waiting period for pregnancy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a31e5106-f21a-4935-9cc4-e0f5ecea289a",
+    "data": [
+      {
+        "text": "Is pregnancy a pre-existing condition?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "id": "6bdd64e1-c7f6-4b00-8062-18b893582f5d",
+  "name": "oshc.renewal",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Yes. You will have to renew or purchase it. Whether you are applying for student visa, you will have provide proof that you will be covered for the duration of your studies."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

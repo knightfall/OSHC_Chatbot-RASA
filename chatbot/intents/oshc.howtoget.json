@@ -1,0 +1,31 @@
+{
+  "id": "11bcc6b6-d7bc-4f31-ba7c-b8754a1e5168",
+  "name": "oshc.howtoget",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "You can purchase  OSHC through your university. Universities in Australia usually have preferred OSHC providers. Preferred OSHC providers provide added benefit on top of their base product. In most cases, it is beneficial to get your OSHC through your university. \nYou can also purchase OSHC by yourself from an OSHC provider\u0027s website. If you need to get an idea about how much it will cost you, you can ask me: \" Get me a quote for OSHC\"."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

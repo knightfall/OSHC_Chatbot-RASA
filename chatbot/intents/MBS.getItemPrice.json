@@ -1,0 +1,49 @@
+{
+  "id": "5387c82d-b85c-46e3-b62f-ac2a4c8b8e1a",
+  "name": "MBS.getItemPrice",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "MBSgetItemPrice-followup",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "20733815-1c83-4e83-9e5c-5f8b29c55a3a",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "item",
+          "value": "$item",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Would you please tell me the mbs item number?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

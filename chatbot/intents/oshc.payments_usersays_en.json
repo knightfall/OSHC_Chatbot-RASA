@@ -1,0 +1,38 @@
+[
+  {
+    "id": "d52450c4-f630-4600-9708-db5cb7d76847",
+    "data": [
+      {
+        "text": "can the oshc fee be paid in installments?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "42b74283-6695-4225-97df-3472ca45d82b",
+    "data": [
+      {
+        "text": "does the premium have to be paid all upfront?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c1caf0c3-1b80-44ca-8ea2-a38cc74a31cc",
+    "data": [
+      {
+        "text": "Can OSHC premium be paid in instalments?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,53 @@
+{
+  "id": "bea73f8e-2c9e-4bc3-b1e4-9a003519b634",
+  "name": "oshc.isCovered.medical_items",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ad38c396-8e54-4246-8a1c-fd8b0581c52d",
+          "required": false,
+          "dataType": "@medical_items",
+          "name": "medical_items",
+          "value": "$medical_items",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "As long as the item is listed under MBS, it is covered and you will get 85% of the MBS rate returned. Pre-existing conditions might apply."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

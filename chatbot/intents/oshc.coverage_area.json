@@ -1,0 +1,44 @@
+{
+  "id": "f4ac032d-e521-4751-b2ef-11e1c2541c5c",
+  "name": "oshc.coverage_area",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9ca88bc0-b9ba-4d91-8e0d-7feb456b356b",
+          "required": false,
+          "dataType": "@sys.geo-country",
+          "name": "geo-country",
+          "value": "$geo-country",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "No, OSHC is only valid in Australia. If you are planning to visit $geo-country , look for travel insurance."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

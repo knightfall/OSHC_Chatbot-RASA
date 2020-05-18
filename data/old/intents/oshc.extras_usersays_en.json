@@ -1,0 +1,80 @@
+[
+  {
+    "id": "74c158c5-7585-417d-9f34-4e66d6c0730a",
+    "data": [
+      {
+        "text": "Can I get ",
+        "userDefined": false
+      },
+      {
+        "text": "money",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " back from my dental treatment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6ad5bb9b-0158-442a-9e2f-298c9c63ce18",
+    "data": [
+      {
+        "text": "Can I get ",
+        "userDefined": false
+      },
+      {
+        "text": "money",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " back for my glasses?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "27e013d4-d4a8-471e-b064-f7f13c09077b",
+    "data": [
+      {
+        "text": "Are glasses covered?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ed05fae6-834e-4014-93c8-8906e8f5f6a9",
+    "data": [
+      {
+        "text": "Are dental checkups covered?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5cef8157-a480-4b27-a028-753be90461b7",
+    "data": [
+      {
+        "text": "Are glasses and lenses covered?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "id": "c639a7ba-0096-4905-8283-b409e2c39be6",
+  "name": "MBS.getItemDetails",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "MBSgetItemDetails-followup",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "79602ccd-9946-40f0-9ad3-fc3fb30edb6e",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "item",
+          "value": "$item",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

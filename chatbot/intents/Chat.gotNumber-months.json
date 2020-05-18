@@ -1,0 +1,36 @@
+{
+  "id": "ea78a5ff-fccd-4252-b62a-5c6a27f91641",
+  "parentId": "eb259d54-d72d-45ac-a7c8-cda41f318f42",
+  "rootParentId": "eb259d54-d72d-45ac-a7c8-cda41f318f42",
+  "name": "Chat.gotNumber-months",
+  "auto": true,
+  "contexts": [
+    "ChatgotNumber-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ChatgotNumber.ChatgotNumber-custom-2",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

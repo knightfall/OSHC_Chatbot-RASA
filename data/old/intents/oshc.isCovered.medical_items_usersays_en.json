@@ -1,0 +1,149 @@
+[
+  {
+    "id": "114b48d6-e638-4144-bc82-9afd897af7ea",
+    "data": [
+      {
+        "text": "do ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " cover ",
+        "userDefined": false
+      },
+      {
+        "text": "mri",
+        "alias": "medical_items",
+        "meta": "@medical_items",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d90504ca-41f2-4573-9425-bf4aef9dbce0",
+    "data": [
+      {
+        "text": "do I get ",
+        "userDefined": false
+      },
+      {
+        "text": "money",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " back for ",
+        "userDefined": false
+      },
+      {
+        "text": "fbc",
+        "alias": "medical_items",
+        "meta": "@medical_items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d15ebab0-ca01-4bf1-ba21-2a46453e3045",
+    "data": [
+      {
+        "text": "Does my oshc cover ",
+        "userDefined": false
+      },
+      {
+        "text": "blood tests",
+        "alias": "medical_items",
+        "meta": "@medical_items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55a10a0a-789e-49ac-a918-033f34f5f152",
+    "data": [
+      {
+        "text": "Can I get ",
+        "userDefined": false
+      },
+      {
+        "text": "money",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " back for ",
+        "userDefined": false
+      },
+      {
+        "text": "ultrasonography",
+        "alias": "medical_items",
+        "meta": "@medical_items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "40eee391-5fd7-4e50-848a-ca677ea93d59",
+    "data": [
+      {
+        "text": "Are ",
+        "userDefined": false
+      },
+      {
+        "text": "ct scans",
+        "alias": "medical_items",
+        "meta": "@medical_items",
+        "userDefined": true
+      },
+      {
+        "text": " covered?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "535d790a-2643-4e10-903b-167bbb53c971",
+    "data": [
+      {
+        "text": "Are ",
+        "userDefined": false
+      },
+      {
+        "text": "X-rays",
+        "alias": "medical_items",
+        "meta": "@medical_items",
+        "userDefined": true
+      },
+      {
+        "text": " covered?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

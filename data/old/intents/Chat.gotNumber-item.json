@@ -1,0 +1,41 @@
+{
+  "id": "e6dd6b1a-c262-4ec1-a893-891e1cfcc3e5",
+  "parentId": "eb259d54-d72d-45ac-a7c8-cda41f318f42",
+  "rootParentId": "eb259d54-d72d-45ac-a7c8-cda41f318f42",
+  "name": "Chat.gotNumber-item",
+  "auto": true,
+  "contexts": [
+    "ChatgotNumber-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": true,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "616786c3-d5ab-4359-95d1-3afd041ff5fe",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "item",
+          "value": "#ChatgotNumber-followup.number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

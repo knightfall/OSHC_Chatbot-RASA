@@ -1,0 +1,55 @@
+{
+  "id": "599c9f13-fe01-4b0e-a899-48a087fa2dde",
+  "parentId": "deb73ab1-15ff-49d9-9ce9-d3888e0855d0",
+  "rootParentId": "deb73ab1-15ff-49d9-9ce9-d3888e0855d0",
+  "name": "Default Welcome Intent - What can you do",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d55faab8-18dc-47ad-afcb-c7839cfa5a74",
+          "required": false,
+          "dataType": "@person",
+          "name": "person",
+          "value": "$person",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "zh-cn",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

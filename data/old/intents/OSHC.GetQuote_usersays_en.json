@@ -1,0 +1,192 @@
+[
+  {
+    "id": "199d84df-11b9-44e9-853b-5dba3a24130c",
+    "data": [
+      {
+        "text": "can you compare the medibank prices with the other health providers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "638078ea-a05c-47b6-9251-959f6327cf38",
+    "data": [
+      {
+        "text": "Get me quote for ",
+        "userDefined": false
+      },
+      {
+        "text": "26 months",
+        "alias": "duration",
+        "meta": "@quote-duration",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "no",
+        "alias": "partner",
+        "meta": "@quote-boolean",
+        "userDefined": false
+      },
+      {
+        "text": " partner ",
+        "userDefined": false
+      },
+      {
+        "text": "no",
+        "alias": "child",
+        "meta": "@quote-boolean",
+        "userDefined": true
+      },
+      {
+        "text": " children",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6905e456-656f-4944-882c-f3ddaa6a3449",
+    "data": [
+      {
+        "text": "26 months",
+        "alias": "duration",
+        "meta": "@quote-duration",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "yes",
+        "alias": "partner",
+        "meta": "@quote-boolean",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "no",
+        "alias": "child",
+        "meta": "@quote-boolean",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ea9143d-eeba-4a8e-b1d8-fbebb2e1950c",
+    "data": [
+      {
+        "text": "get me a quote",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a1e7d476-045c-4b24-a2ee-c32a145099c1",
+    "data": [
+      {
+        "text": "hi what is the price for the insurance?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fbe25734-8c57-418e-a991-59ae7b6f5ee2",
+    "data": [
+      {
+        "text": "Help me to get ",
+        "userDefined": false
+      },
+      {
+        "text": "price",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " of OSHC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b56cf9d8-f521-49f4-b20b-4058778bfdff",
+    "data": [
+      {
+        "text": "How much OSHC ",
+        "userDefined": false
+      },
+      {
+        "text": "cost",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31d052d2-bef3-4d94-a76f-42ab760f208d",
+    "data": [
+      {
+        "text": "Cost of getting OHSC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1624c7eb-a854-44fa-874e-efe3f5507319",
+    "data": [
+      {
+        "text": "How much do I have to pay for OSHC?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c41fafe5-d357-4661-9425-663fe5f2b006",
+    "data": [
+      {
+        "text": "How much is OSHC?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,54 @@
+{
+  "id": "6c31e61f-db77-4d70-8e66-d25baac4c82a",
+  "parentId": "c639a7ba-0096-4905-8283-b409e2c39be6",
+  "rootParentId": "c639a7ba-0096-4905-8283-b409e2c39be6",
+  "name": "MBS.getItemDetails-fee",
+  "auto": true,
+  "contexts": [
+    "MBSgetItemDetails-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b1c99256-d464-482d-9375-336ba9184583",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "item",
+          "value": "#MBSgetItemDetails-followup.item",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "zh-cn",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

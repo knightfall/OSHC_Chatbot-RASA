@@ -1,0 +1,57 @@
+{
+  "id": "f76e5aa9-378a-4730-be43-bbe4c01accfc",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "zh-cn",
+          "condition": "",
+          "speech": [
+            "对不起，我听不懂你的问题。",
+            "请你再说一遍。",
+            "我怕我听不懂你的话。",
+            "我对最后的部分还有一些糊涂。",
+            "请再讲一次好吗？"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "I didn\u0027t get that. Can you say it again?",
+            "I missed what you said. What was that?",
+            "Sorry, could you say that again?",
+            "Sorry, can you say that again?",
+            "Can you say that again?",
+            "Sorry, I didn\u0027t get that. Can you rephrase?",
+            "Sorry, what was that?",
+            "One more time?",
+            "What was that?",
+            "Say that one more time?",
+            "I didn\u0027t get that. Can you repeat?",
+            "I missed that, say that again?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

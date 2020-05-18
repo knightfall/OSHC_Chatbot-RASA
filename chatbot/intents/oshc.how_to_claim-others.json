@@ -1,0 +1,49 @@
+{
+  "id": "5cdb69bd-51db-4d85-9cfa-f182d9394069",
+  "parentId": "1103f1db-c991-411d-b6ef-aca0a6a95733",
+  "rootParentId": "1103f1db-c991-411d-b6ef-aca0a6a95733",
+  "name": "oshc.how_to_claim-others",
+  "auto": true,
+  "contexts": [
+    "oshchow_to_claim-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "oshchow_to_claim.oshchow_to_claim-custom-3",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ae4035de-7736-43b9-ba8a-07e11235e002",
+          "required": false,
+          "dataType": "@bolean",
+          "name": "bolean",
+          "value": "$bolean",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Sorry, we are working on to provide information about all OSHC providers"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

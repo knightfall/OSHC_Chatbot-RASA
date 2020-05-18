@@ -1,0 +1,42 @@
+{
+  "id": "5f72e632-4ba3-4da8-822d-5a0a2df992e2",
+  "parentId": "deb73ab1-15ff-49d9-9ce9-d3888e0855d0",
+  "rootParentId": "deb73ab1-15ff-49d9-9ce9-d3888e0855d0",
+  "name": "Default Welcome Intent - doing fine",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Good to hear"
+        },
+        {
+          "type": 0,
+          "lang": "zh-cn",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

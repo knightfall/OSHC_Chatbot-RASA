@@ -1,0 +1,31 @@
+{
+  "id": "f6c32e76-ac03-448c-b55a-e2ff0f11bff2",
+  "name": "abilities",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "I can do the following for now:\n1. Answer generic questions related to OSHC\n2. Get you quotes from 4 different providers\n3. Help to find the claim amount of the MBS Item number you were billed"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

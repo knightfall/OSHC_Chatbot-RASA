@@ -1,0 +1,31 @@
+{
+  "id": "f9cb91cf-cd29-4fe4-b373-007df4f770f3",
+  "name": "oshc.gapfee",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Although all of the claim eligible medical services are listed with a schedule fee under MBS, medical services providers can charge any amount for the medical services they provide. The amount a medical services provider charges above the schedule fee is called the gap fee which isn\u0027t covered by the insurance provider or the Medicare.\nFor Example, if a GP charges you $50 AUD for a visit billed as item 23, your gap fee will be $12.40 AUD as the schedule fee of item 23 is $37.60 AUD."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

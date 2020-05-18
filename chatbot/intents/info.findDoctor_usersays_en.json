@@ -1,0 +1,26 @@
+[
+  {
+    "id": "783baa26-087b-4215-aaa8-2241c1a564fa",
+    "data": [
+      {
+        "text": "doctor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e604e86e-fd6f-47da-81f5-876d6b62a49a",
+    "data": [
+      {
+        "text": "Where can I meet a doctor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

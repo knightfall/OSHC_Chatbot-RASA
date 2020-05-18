@@ -1,0 +1,31 @@
+{
+  "id": "bf752397-5271-491d-adfe-c777cf547c3c",
+  "name": "oshc.extras",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Glasses, lenses and dental treatments aren\u0027t covered under OSHC. If you are looking dental and eye insurance, you can check the OSHC extras offering by your provider."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

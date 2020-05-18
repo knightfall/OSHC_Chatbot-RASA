@@ -1,0 +1,31 @@
+{
+  "id": "6befcced-593a-4f6a-95cd-7e628c727907",
+  "name": "oshc.membershipCard",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "OSHC membership cards contain your name, membership number and policy start and end dates. You might not need a physical card anymore. Like Medibank and Allianz provides digital membership card which can be accessed from their app. Like the typical membership card, it can be used as valid proof of insurance. But your membership card whether physical or digital isn\u0027t valid without your photo id."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2d1a5c3a-fb55-4af4-b83c-08040a77c84f",
+  "parentId": "4ea06220-c3c1-43c2-8eb3-267844afea8a",
+  "rootParentId": "4ea06220-c3c1-43c2-8eb3-267844afea8a",
+  "name": "OSHC.GetQuote - fallback",
+  "auto": false,
+  "contexts": [
+    "OSHCGetQuote-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "OSHCGetQuote.OSHCGetQuote-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "zh-cn",
+          "condition": "",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Sorry, I am unable to process your query. Would you please start again?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

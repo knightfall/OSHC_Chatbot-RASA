@@ -1,0 +1,24 @@
+[
+  {
+    "id": "cdaf80aa-c06a-48bd-96e1-7533639f1a2a",
+    "data": [
+      {
+        "text": "What can ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "alias": "person",
+        "meta": "@person",
+        "userDefined": false
+      },
+      {
+        "text": " do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

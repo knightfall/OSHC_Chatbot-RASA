@@ -1,0 +1,54 @@
+{
+  "id": "2753e065-694d-4917-8d6e-6a4d3e6bc25c",
+  "parentId": "5387c82d-b85c-46e3-b62f-ac2a4c8b8e1a",
+  "rootParentId": "5387c82d-b85c-46e3-b62f-ac2a4c8b8e1a",
+  "name": "MBS.getItemPrice-details",
+  "auto": true,
+  "contexts": [
+    "MBSgetItemPrice-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "51bc7852-ef59-43c5-9a48-8b84a0ed0c96",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "item",
+          "value": "#MBSgetItemPrice-followup.item",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "zh-cn",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

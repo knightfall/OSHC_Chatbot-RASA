@@ -1,0 +1,16 @@
+[
+  {
+    "value": "month",
+    "synonyms": [
+      "month",
+      "months"
+    ]
+  },
+  {
+    "value": "year",
+    "synonyms": [
+      "year",
+      "years"
+    ]
+  }
+]

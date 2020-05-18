@@ -1,0 +1,31 @@
+{
+  "id": "a79329af-844a-439b-b643-34b661cf40fb",
+  "name": "info.Medibank",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Medibank is the second largest private health insurer in Australia. In NSW, if you are an international student at UTS \u0026 UNSW and you paid to the university to arrange your OSHC, your policy is with Medibank"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

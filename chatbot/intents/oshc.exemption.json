@@ -1,0 +1,31 @@
+{
+  "id": "94133b67-9aca-4fd7-a089-807b5ac490ec",
+  "name": "oshc.exemption",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "You do not need to have OSHC while you are an international student in Australia if you are:\na Norwegian student covered by the Norwegian National Insurance Scheme\na Swedish student covered by Kammarkollegiet\na Belgian student covered under the Reciprocal Health Care Agreement with Australia"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

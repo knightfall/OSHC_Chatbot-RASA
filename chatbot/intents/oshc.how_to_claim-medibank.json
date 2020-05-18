@@ -1,0 +1,36 @@
+{
+  "id": "aac3c3d9-02c7-477d-abd1-d61494e2286c",
+  "parentId": "1103f1db-c991-411d-b6ef-aca0a6a95733",
+  "rootParentId": "1103f1db-c991-411d-b6ef-aca0a6a95733",
+  "name": "oshc.how_to_claim-medibank",
+  "auto": true,
+  "contexts": [
+    "oshchow_to_claim-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "oshchow_to_claim.oshchow_to_claim-custom-2",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "For Medibank,\n1. You can submit a claim from Medibank OSHC app or Medibank website\n2. Send an email with your details and the tax invoices of your medical services to oshc@medibank.com.au\n3. Visit a medibank store with your identity and claim documents"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "469354c5-e099-4cb6-981f-05f6edef0f13",
+  "name": "info.Allianz",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Allianz Global Assistance is one of the six OSHC providers in Australia. In NSW, if you have paid to the university for your student health insurance and you are a student from MQU, WSU, USYD, OR ACU; your student health insurance provider is Allianz"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

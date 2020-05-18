@@ -1,0 +1,31 @@
+{
+  "id": "0a11c709-a206-498c-a1ec-b91f5b3dc076",
+  "name": "waiting periods",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "A waiting period is the period of time during which you can\u0027t claim for the cost of medical services related to a pre-existing condition from your OSHC provider.\nAll six providers have the following waiting periods for  pre-existing conditions in their standard cover:\n2 month waiting period for pre-existing psychiatric-related medical conditions\n12 month waiting period for all pregnancy-related conditions\n12 month waiting period for all other pre-existing medical conditions"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

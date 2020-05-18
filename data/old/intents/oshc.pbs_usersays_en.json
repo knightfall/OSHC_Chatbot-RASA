@@ -1,0 +1,71 @@
+[
+  {
+    "id": "3e886ff0-ac02-424e-98ce-849163b2cb8b",
+    "data": [
+      {
+        "text": "Is prescition covered?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4cf056ee-91a1-4cab-bbbd-55204a24d7ff",
+    "data": [
+      {
+        "text": "Can I get ",
+        "userDefined": false
+      },
+      {
+        "text": "money",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " for my prescription",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c8d31bc0-5667-44c3-ab78-86ef00c2d467",
+    "data": [
+      {
+        "text": "is prescriptions covered?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "04356c4e-e6a2-4eb4-b238-4175e080dd36",
+    "data": [
+      {
+        "text": "pharmaceutical benefit scheme",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0f97531c-6284-4aeb-a60e-9f42eae73c3d",
+    "data": [
+      {
+        "text": "what is PBS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "id": "d9881dc1-09d5-4cb3-afcb-0ce45b35c6eb",
+  "name": "oshc.providerslist",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Currently there are 6 providers for OSHC in Australia:\n\n1. Allianz\n\n2. Medibank\n\n3. nib\n\n4. ahm\n\n5. Bupa\n\n6. CBHS"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

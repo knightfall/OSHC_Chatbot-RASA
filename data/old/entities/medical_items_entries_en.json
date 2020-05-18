@@ -1,0 +1,29 @@
+[
+  {
+    "value": "imaging",
+    "synonyms": [
+      "CT scan",
+      "MRI",
+      "chest x-ray",
+      "chest xray",
+      "radiology",
+      "ultrasonography",
+      "x-ray",
+      "xray"
+    ]
+  },
+  {
+    "value": "pathology",
+    "synonyms": [
+      "TSH",
+      "blood sugar",
+      "blood test",
+      "fbc",
+      "lipid profile",
+      "liver function test",
+      "pathology",
+      "thyroid test",
+      "urine test"
+    ]
+  }
+]

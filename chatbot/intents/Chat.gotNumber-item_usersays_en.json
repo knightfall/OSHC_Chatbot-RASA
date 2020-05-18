@@ -1,0 +1,26 @@
+[
+  {
+    "id": "00816e0d-3ac6-4ce2-bdab-22f9a31973f0",
+    "data": [
+      {
+        "text": "mbs item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7788f982-ccce-47e9-9eac-ffc881addb18",
+    "data": [
+      {
+        "text": "item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

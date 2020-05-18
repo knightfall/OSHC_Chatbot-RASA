@@ -1,0 +1,65 @@
+[
+  {
+    "id": "a65ce7f8-893d-4f1b-997a-c76996b0787c",
+    "data": [
+      {
+        "text": "how to ",
+        "userDefined": false
+      },
+      {
+        "text": "claim",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " from OSHC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a07dfa26-7fbe-4921-8243-b4f6c44c62d2",
+    "data": [
+      {
+        "text": "How to ",
+        "userDefined": false
+      },
+      {
+        "text": "claim",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " from my provider",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e70ec3e0-55ba-451a-b4e3-652032cf3312",
+    "data": [
+      {
+        "text": "How to ",
+        "userDefined": false
+      },
+      {
+        "text": "claim",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " my visit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

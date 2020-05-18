@@ -1,0 +1,31 @@
+{
+  "id": "994e1ef0-43c3-4f0e-8f12-c47f3615d22c",
+  "name": "Should I buy OSHC?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "If you are planning to study in Australia as an International student and you don\u0027t fall in or fit the requirements below, you will have to purchase OSHC for the entire duration of your student visa.\n\n1. a Norwegian student covered by the Norwegian National Insurance Scheme\n2. a Swedish student covered by Kammarkollegiet\n3. a Belgian student covered under the Reciprocal Health Care Agreement with Australia"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

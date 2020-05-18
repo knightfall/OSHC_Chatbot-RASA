@@ -1,0 +1,199 @@
+[
+  {
+    "id": "73b6dcc2-f551-4265-bbae-501d7315d82c",
+    "data": [
+      {
+        "text": "What is the price of  item number ",
+        "userDefined": false
+      },
+      {
+        "text": "23",
+        "alias": "item",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6460bc4e-cd30-445c-be56-c12a02edb327",
+    "data": [
+      {
+        "text": "cost of ",
+        "userDefined": false
+      },
+      {
+        "text": "5040",
+        "alias": "item",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8051ff66-6029-472e-8c66-05166b24515b",
+    "data": [
+      {
+        "text": "How much money can I get back from my test?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9b165f92-350e-4f0b-83c7-69da3af3f413",
+    "data": [
+      {
+        "text": "Item price of ",
+        "userDefined": false
+      },
+      {
+        "text": "110",
+        "alias": "item",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a5db0012-f3c1-47cd-a74f-33b66d21cadd",
+    "data": [
+      {
+        "text": "How much ",
+        "userDefined": false
+      },
+      {
+        "text": "money",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " can I get back from my doctor visit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cfd73ed9-4279-4934-9a7f-1b6707f47339",
+    "data": [
+      {
+        "text": "price of item ",
+        "userDefined": false
+      },
+      {
+        "text": "23",
+        "alias": "item",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "807f63b2-de07-485f-a09f-746fc6a6fa4b",
+    "data": [
+      {
+        "text": "how much for item ",
+        "userDefined": false
+      },
+      {
+        "text": "23",
+        "alias": "item",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5e16945a-5dde-425b-9127-28d7a7c80e38",
+    "data": [
+      {
+        "text": "How much money will I get back from mbs item ",
+        "userDefined": false
+      },
+      {
+        "text": "36",
+        "alias": "item",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "adb4e3fa-cfad-4225-a527-2fc23666eb58",
+    "data": [
+      {
+        "text": "What is the price for ",
+        "userDefined": false
+      },
+      {
+        "text": "23",
+        "alias": "item",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b4f3913d-48d9-46f7-aca7-a62d959ea6a9",
+    "data": [
+      {
+        "text": "How much for mbs item ",
+        "userDefined": false
+      },
+      {
+        "text": "23",
+        "alias": "item",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

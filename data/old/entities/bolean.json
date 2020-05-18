@@ -1,0 +1,9 @@
+{
+  "id": "4ed4a372-feec-429d-b246-0684c7e7e9ef",
+  "name": "bolean",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

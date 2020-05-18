@@ -1,0 +1,38 @@
+[
+  {
+    "id": "6d24fbf0-795a-4444-8667-47ddd2a4bc77",
+    "data": [
+      {
+        "text": "pre existing condition",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "46906c5d-b8c0-4f20-9756-46d48060c337",
+    "data": [
+      {
+        "text": "Pre-existing conditions?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c418cea8-27e8-4213-a8f7-66ab46408e07",
+    "data": [
+      {
+        "text": "explain pre-existing conditions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "value": "@sys.number-integer:value @quote-durationtype:duration",
+    "synonyms": [
+      "@sys.number-integer:value @quote-durationtype:duration"
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "id": "8a9069bd-453f-4924-b127-9cd1bfeb5706",
+  "name": "oshc.coi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Certificate of Insurance or COI in short, is the proof of coverage document provided by your OSHC provider. You will need it mainly during your visa application. You can get your COI through your OSHC online portal or by simply calling your provider"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

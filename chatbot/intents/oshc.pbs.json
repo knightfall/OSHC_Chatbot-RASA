@@ -1,0 +1,31 @@
+{
+  "id": "97586b05-2fa9-4fbe-9a96-c22255dd0304",
+  "name": "oshc.pbs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Pharmaceutical Benefits Scheme or PBS, in short, is a program by the Australian Government which provides subsidies for a list of medicines. If you were prescribed a medicine listed on PBS and it costs more than $ 40.30, you can get back up to 50 dollars for it after the $40.30. For example, if you have paid 60 dollars for a medicine listed on PBS, you will get back $ 19.70, the first $ 40.30 is your copayment amount"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

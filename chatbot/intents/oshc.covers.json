@@ -1,0 +1,31 @@
+{
+  "id": "6b6901ab-601c-4b9f-917e-0e581d11689c",
+  "name": "oshc.covers",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "1. General Physician(GP) : 100% of the MBS rate \n2. Specialists ( Doctor, Pathology, Radiology): 85% of the MBS rate**. \n3. Public Hospital: 100% of the State and Territory health authorities suggested rate when you are treated as a public patient in shared ward accomodation. \n4. Ambulance: 100% of the charge when the ambulance call was medically necessary. \n5. Prescription: Up to $50 AUD per item listed on Pharmaceutical Benefits Scheme (PBS) after you pay your contribution($40.30 AUD currently).\n**Bupa \u0026 CBHS covers 100% of the MBS rates for specialists"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

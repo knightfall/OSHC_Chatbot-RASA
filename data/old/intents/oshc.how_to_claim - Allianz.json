@@ -1,0 +1,42 @@
+{
+  "id": "b435c36f-6b9e-488a-bc6f-c4be8e04a76d",
+  "parentId": "1103f1db-c991-411d-b6ef-aca0a6a95733",
+  "rootParentId": "1103f1db-c991-411d-b6ef-aca0a6a95733",
+  "name": "oshc.how_to_claim - Allianz",
+  "auto": true,
+  "contexts": [
+    "oshchow_to_claim-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "oshchow_to_claim.oshchow_to_claim-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "For Allianz,\n1. You can visit their on-campus support for GP claims up to $105 AUD.\n2. You can submit a claim via their app.\n3. Download the claim form from https://allianzassistancehealth.com.au/v_1541050586430/media/documents/aga-oshc-claim-form-1118.pdf \nand send the completed form and evidence to oshcclaims@allianz-assistance.com.au"
+        },
+        {
+          "type": 0,
+          "lang": "zh-cn",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

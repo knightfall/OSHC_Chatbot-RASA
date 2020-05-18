@@ -1,0 +1,9 @@
+{
+  "id": "00c8ef84-0bc4-4675-9b0b-bfc9821fe0eb",
+  "name": "medical_items",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

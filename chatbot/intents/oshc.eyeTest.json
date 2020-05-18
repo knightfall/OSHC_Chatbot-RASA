@@ -1,0 +1,31 @@
+{
+  "id": "1a264a37-edbb-4190-a47a-9914d385844a",
+  "name": "oshc.eyeTest",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Your OSHC provider will cover the cost of one comprehensive consultation once every 3 years. The MBS item number of the consultation is 10910. You will get $56.80 back from your provider for it. You might be also covered for the follow-up eye tests."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

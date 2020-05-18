@@ -1,0 +1,23 @@
+[
+  {
+    "value": "Couple Cover",
+    "synonyms": [
+      "Couple Cover",
+      "yes partner no child"
+    ]
+  },
+  {
+    "value": "Family cover",
+    "synonyms": [
+      "Family cover",
+      "yes partner yes child"
+    ]
+  },
+  {
+    "value": "Single cover",
+    "synonyms": [
+      "Single cover",
+      "no partner no child"
+    ]
+  }
+]
