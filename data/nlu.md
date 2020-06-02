@@ -54,6 +54,7 @@
 - hi
 - hello there
 - a good day
+- Hello
 
 ## intent:info.Allianz
 - allianz
@@ -330,22 +331,13 @@
 - could you give me a hand
 - help
 
-## synonym:@bolean
-- @bolean
-
-## synonym:@sys.number-integer:value @quote-durationtype:duration
-- @sys.number-integer:value @quote-durationtype:duration
-
 ## synonym:Couple Cover
-- Couple Cover
 - yes partner no child
 
 ## synonym:Family cover
-- Family cover
 - yes partner yes child
 
 ## synonym:Single cover
-- Single cover
 - no partner no child
 
 ## synonym:imaging
@@ -359,7 +351,6 @@
 - xray
 
 ## synonym:month
-- month
 - months
 
 ## synonym:no
@@ -368,7 +359,6 @@
 - don't
 - nada
 - nein
-- no
 - nope
 - nyet
 
@@ -379,7 +369,6 @@
 - fbc
 - lipid profile
 - liver function test
-- pathology
 - thyroid test
 - urine test
 
@@ -390,84 +379,35 @@
 - dollar
 - dollars
 - money
-- price
 - refund
 - taka
 
 ## synonym:year
-- year
 - years
 
 ## synonym:yes
 - do have
 - ha
 - yap
-- yes
 - yup
 
 ## synonym:you
 - u
-- you
 
 ## lookup:bolean
-- do not
-- do not have
-- don't
-- nada
-- nein
-- no
-- nope
-- nyet
-- do have
-- ha
-- yap
-- yes
-- yup
+  data/bolean
 
 ## lookup:person
-- u
-- you
+  data/person
 
 ## lookup:Policy
-- Couple Cover
-- yes partner no child
-- Family cover
-- yes partner yes child
-- Single cover
-- no partner no child
+  data/Policy
 
 ## lookup:price
-- aud
-- claim
-- costing
-- dollar
-- dollars
-- money
-- price
-- refund
-- taka
+  data/price
 
 ## lookup:quote-durationtype
-- month
-- months
-- year
-- years
+  data/quote-durationtype
 
 ## lookup:medical_items
-- CT scan
-- MRI
-- chest x-ray
-- chest xray
-- radiology
-- ultrasonography
-- x-ray
-- xray
-- TSH
-- blood sugar
-- blood test
-- fbc
-- lipid profile
-- liver function test
-- pathology
-- thyroid test
-- urine test
+  data/medical_items
