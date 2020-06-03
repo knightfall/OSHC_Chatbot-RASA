@@ -1,0 +1,38 @@
+[
+  {
+    "id": "5c763a37-0198-4999-b45f-8b034daa9a5d",
+    "data": [
+      {
+        "text": "what is medibank",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "140794c0-952c-48da-9603-67c480dd4bd3",
+    "data": [
+      {
+        "text": "tell me about medibank",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fa54670f-1c9a-42ed-a46e-6582dfe0de81",
+    "data": [
+      {
+        "text": "Medibank",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

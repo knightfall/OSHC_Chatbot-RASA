@@ -1,0 +1,100 @@
+[
+  {
+    "id": "b72d2985-1090-4e44-89aa-bb3db2368ca4",
+    "data": [
+      {
+        "text": "does oshc cover in ",
+        "userDefined": false
+      },
+      {
+        "text": "new zealand",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "970f2aac-4427-4baa-b3f5-70ca5638becd",
+    "data": [
+      {
+        "text": "I am going to ",
+        "userDefined": false
+      },
+      {
+        "text": "New Zealand",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": true
+      },
+      {
+        "text": " for Holiday. Can I use my insurance card in New Zealand?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "910f243e-d349-4ccf-8218-07e3629e662d",
+    "data": [
+      {
+        "text": "Can I use my OSHC card in ",
+        "userDefined": false
+      },
+      {
+        "text": "New Zealand",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " if I were sick.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "242fa32c-161c-4a6e-8774-5a63bae1539d",
+    "data": [
+      {
+        "text": "Am I covered by OSHC in ",
+        "userDefined": false
+      },
+      {
+        "text": "USA",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6bed50f7-2554-4cdc-89f7-1902a9319cc3",
+    "data": [
+      {
+        "text": "Can i Use my oshc in ",
+        "userDefined": false
+      },
+      {
+        "text": "japan",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

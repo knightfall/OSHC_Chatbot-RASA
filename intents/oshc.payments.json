@@ -1,0 +1,31 @@
+{
+  "id": "1700f7c3-6f9f-4964-ab16-7ab51eb59e96",
+  "name": "oshc.payments",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "OSHC premiums has to be paid in full and the duration of your OSHC has to be at least one month plus the duration of your studies.\nAs an example, if your course is for 2 years, you have purchase your OSHC for 26 months and pay the amount for 26 months upfront."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

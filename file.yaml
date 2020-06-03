@@ -1,0 +1,106 @@
+  beging:
+    - text: "1"
+  utter_oshcpregnancy:
+    - text: "Pregnancy is covered by OSHC but it is considered a pre-existing condition. You might have to wait for 12 months from your arrival to Australia on a student visa for pregnancy coverage. If the pre-existing condition doesn't apply to you, you will be covered for your pregnancy-related medical services including the delivery. However, the coverage might vary from provider to provider. Call you OSHC provider for more details"
+  utter_oshcwhatis:
+    - text: "Overseas Student Health Cover or OSHC, in short, is the health insurance cover that all international students (except from three countries) in Australia has to maintain in order get a student visa and maintain eligibility of the visa."
+  utter_oshcpbs:
+    - text: "Pharmaceutical Benefits Scheme or PBS, in short, is a program by the Australian Government which provides subsidies for a list of medicines. If you were prescribed a medicine listed on PBS and it costs more than $ 40.30, you can get back up to 50 dollars for it after the $40.30. For example, if you have paid 60 dollars for a medicine listed on PBS, you will get back $ 19.70, the first $ 40.30 is your copayment amount"
+  utter_smalltalkagentanswermyquestion:
+    - text: "['Can you try asking it a different way?', "I'm not sure I understood. Try asking another way?"]"
+  utter_oshcrenewal:
+    - text: "Yes. You will have to renew or purchase it. Whether you are applying for student visa, you will have provide proof that you will be covered for the duration of your studies."
+  utter_oshcpreexisting:
+    - text: "A pre-existing condition is an ailment, illness or condition, the signs or symptoms of which, in the opinion of a Medical Practitioner, existed in the 6 months prior to you arriving in Australia or your visa being granted, whichever date is later."
+  utter_smalltalkagentcanyouhelp:
+    - text: "["I'll certainly try my best. How can I help?", "Sure. I'd be happy to. What's up?", "I'm glad to help. What can I do for you?"]"
+  utter_oshccoi:
+    - text: "Certificate of Insurance or COI in short, is the proof of coverage document provided by your OSHC provider. You will need it mainly during your visa application. You can get your COI through your OSHC online portal or by simply calling your provider"
+  utter_oshchowtoget:
+    - text: "You can purchase  OSHC through your university. Universities in Australia usually have preferred OSHC providers. Preferred OSHC providers provide added benefit on top of their base product. In most cases, it is beneficial to get your OSHC through your university. 
+You can also purchase OSHC by yourself from an OSHC provider's website. If you need to get an idea about how much it will cost you, you can ask me: " Get me a quote for OSHC"."
+  utter_bantertest:
+    - text: "well, if you are testing me, you can ask me some questions related to OSHC. I am still in development, so your mileage will vary"
+  utter_oshccoveragearea:
+    - text: "No, OSHC is only valid in Australia. If you are planning to visit $geo-country , look for travel insurance."
+  utter_waiting periods:
+    - text: "A waiting period is the period of time during which you can't claim for the cost of medical services related to a pre-existing condition from your OSHC provider.
+All six providers have the following waiting periods for  pre-existing conditions in their standard cover:
+2 month waiting period for pre-existing psychiatric-related medical conditions
+12 month waiting period for all pregnancy-related conditions
+12 month waiting period for all other pre-existing medical conditions"
+  utter_oshcexemption:
+    - text: "You do not need to have OSHC while you are an international student in Australia if you are:
+a Norwegian student covered by the Norwegian National Insurance Scheme
+a Swedish student covered by Kammarkollegiet
+a Belgian student covered under the Reciprocal Health Care Agreement with Australia"
+  utter_oshcgapfee:
+    - text: "Although all of the claim eligible medical services are listed with a schedule fee under MBS, medical services providers can charge any amount for the medical services they provide. The amount a medical services provider charges above the schedule fee is called the gap fee which isn't covered by the insurance provider or the Medicare.
+For Example, if a GP charges you $50 AUD for a visit billed as item 23, your gap fee will be $12.40 AUD as the schedule fee of item 23 is $37.60 AUD."
+  utter_oshcextras:
+    - text: "Glasses, lenses and dental treatments aren't covered under OSHC. If you are looking dental and eye insurance, you can check the OSHC extras offering by your provider."
+  utter_oshcproviderslist:
+    - text: "Currently there are 6 providers for OSHC in Australia:
+
+1. Allianz
+
+2. Medibank
+
+3. nib
+
+4. ahm
+
+5. Bupa
+
+6. CBHS"
+  utter_oshcmembershipCard:
+    - text: "OSHC membership cards contain your name, membership number and policy start and end dates. You might not need a physical card anymore. Like Medibank and Allianz provides digital membership card which can be accessed from their app. Like the typical membership card, it can be used as valid proof of insurance. But your membership card whether physical or digital isn't valid without your photo id."
+  utter_oshcpartnercover:
+    - text: "Your partner will be covered if
+1. Your partner is a dependant under your student visa
+2. You have a OSHC policy other than single policy"
+  utter_abilities:
+    - text: "I can do the following for now:
+1. Answer generic questions related to OSHC
+2. Get you quotes from 4 different providers
+3. Help to find the claim amount of the MBS Item number you were billed"
+  utter_Bye:
+    - text: "Ok, bye. Have a nice day"
+  utter_infoMedibank:
+    - text: "Medibank is the second largest private health insurer in Australia. In NSW, if you are an international student at UTS & UNSW and you paid to the university to arrange your OSHC, your policy is with Medibank"
+  utter_oshcisCoveredmedicalitems:
+    - text: "[]"
+  utter_smalltalkagentchatbot:
+    - text: "["That's me. I chat, therefore I am.", "Indeed I am. I'll be here whenever you need me."]"
+  utter_oshccovers:
+    - text: "1. General Physician(GP) : 100% of the MBS rate 
+2. Specialists ( Doctor, Pathology, Radiology): 85% of the MBS rate**. 
+3. Public Hospital: 100% of the State and Territory health authorities suggested rate when you are treated as a public patient in shared ward accomodation. 
+4. Ambulance: 100% of the charge when the ambulance call was medically necessary. 
+5. Prescription: Up to $50 AUD per item listed on Pharmaceutical Benefits Scheme (PBS) after you pay your contribution($40.30 AUD currently).
+**Bupa & CBHS covers 100% of the MBS rates for specialists"
+  utter_oshcambulance:
+    - text: "Ambulance fees are covered only in cases where your
+medical Condition was such that you couldn't be transported any other way"
+  utter_MBSwhatis:
+    - text: "The Medicare Benefits Schedule or MBS, in short, is a list of health professional services subsidised by the Australian Government. An item number from MBS is the specific medical service you will receive or have received from a doctor or medical centre. The amount of money you will have to spend and or will be able to claim depends on this number.
+e.g. Common GP item numbers are:  23, 36, 44, 5040"
+  utter_oshcemergency:
+    - text: "Yes, OSHC covers the cost of emergency treatment received at a public hospital."
+  utter_oshcpayments:
+    - text: "OSHC premiums has to be paid in full and the duration of your OSHC has to be at least one month plus the duration of your studies.
+As an example, if your course is for 2 years, you have purchase your OSHC for 26 months and pay the amount for 26 months upfront."
+  utter_oshceyeTest:
+    - text: "Your OSHC provider will cover the cost of one comprehensive consultation once every 3 years. The MBS item number of the consultation is 10910. You will get $56.80 back from your provider for it. You might be also covered for the follow-up eye tests."
+  utter_DWI:
+    - text: "['Hi! How are you doing?', 'Hello! How can I help you?', 'Good day! What can I do for you today?', 'Greetings! How can I assist?']"
+  utter_infoAllianz:
+    - text: "Allianz Global Assistance is one of the six OSHC providers in Australia. In NSW, if you have paid to the university for your student health insurance and you are a student from MQU, WSU, USYD, OR ACU; your student health insurance provider is Allianz"
+  utter_Should I buy OSHC?:
+    - text: "If you are planning to study in Australia as an International student and you don't fall in or fit the requirements below, you will have to purchase OSHC for the entire duration of your student visa.
+
+1. a Norwegian student covered by the Norwegian National Insurance Scheme
+2. a Swedish student covered by Kammarkollegiet
+3. a Belgian student covered under the Reciprocal Health Care Agreement with Australia"
+  utter_oshcpsychiatrycover:
+    - text: "Yes, OSHC covers mental health treatment. Although it might vary from provider to provider. For more details, contact your OSHC provider."

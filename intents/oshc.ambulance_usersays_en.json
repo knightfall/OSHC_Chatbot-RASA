@@ -1,0 +1,26 @@
+[
+  {
+    "id": "c240229b-6950-4a00-afd9-d6efe1ddd6a3",
+    "data": [
+      {
+        "text": "is oshc cover ambulance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "62b66d88-1009-45c4-b9a2-50362f479342",
+    "data": [
+      {
+        "text": "Does OSHC cover ambulance?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

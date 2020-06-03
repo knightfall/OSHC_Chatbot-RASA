@@ -1,0 +1,35 @@
+{
+  "id": "9302914e-b428-4ce7-868a-69d53cdfeeee",
+  "name": "MBS.whatis",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The Medicare Benefits Schedule or MBS, in short, is a list of health professional services subsidised by the Australian Government. An item number from MBS is the specific medical service you will receive or have received from a doctor or medical centre. The amount of money you will have to spend and or will be able to claim depends on this number.\ne.g. Common GP item numbers are:  23, 36, 44, 5040"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "MBSwhatis"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

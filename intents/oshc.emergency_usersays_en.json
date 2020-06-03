@@ -1,0 +1,38 @@
+[
+  {
+    "id": "5fe7f72d-cc38-4020-bc6b-68571d5e2871",
+    "data": [
+      {
+        "text": "are we cover emergency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bf1c5c8e-ead9-4221-a511-eae797fcc8ca",
+    "data": [
+      {
+        "text": "does the insurance cover emergency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "28e3fae3-5224-4044-ba7c-b4f1611e6aac",
+    "data": [
+      {
+        "text": "is oshc cover emergency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "cca03289-602f-49b8-831c-4b3e7973585d",
+    "data": [
+      {
+        "text": "Exit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5b00ab93-c146-45b3-9746-cacb6e3a335c",
+    "data": [
+      {
+        "text": "It was nice chatting with ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "alias": "person",
+        "meta": "@person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4031b523-b329-4dc1-9373-6667c3d97d80",
+    "data": [
+      {
+        "text": "That\u0027s All",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

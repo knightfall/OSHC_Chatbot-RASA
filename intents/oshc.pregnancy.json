@@ -1,0 +1,31 @@
+{
+  "id": "301dd5b7-991b-4153-a2b6-3266af78ce0a",
+  "name": "oshc.pregnancy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Pregnancy is covered by OSHC but it is considered a pre-existing condition. You might have to wait for 12 months from your arrival to Australia on a student visa for pregnancy coverage. If the pre-existing condition doesn\u0027t apply to you, you will be covered for your pregnancy-related medical services including the delivery. However, the coverage might vary from provider to provider. Call you OSHC provider for more details"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

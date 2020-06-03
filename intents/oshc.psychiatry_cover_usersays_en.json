@@ -1,0 +1,50 @@
+[
+  {
+    "id": "5b56f625-ec80-4c60-b2ef-8200ead15096",
+    "data": [
+      {
+        "text": "hi , i would like to know is oshc cover mental health consultation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "15d6b2a2-f056-44c9-96ea-248f554736ff",
+    "data": [
+      {
+        "text": "Does OSHC cover mental health consultation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ed759705-f705-483a-8181-a68e6e068217",
+    "data": [
+      {
+        "text": "does oshc cover psychiatrist visit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "10b87e2a-6c31-4469-ac01-ffbefdbc3b21",
+    "data": [
+      {
+        "text": "Oshc cover for psychiatric illness?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

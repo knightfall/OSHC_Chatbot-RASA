@@ -1,0 +1,26 @@
+[
+  {
+    "id": "cc724a99-3bc8-45ff-8378-97c614eed735",
+    "data": [
+      {
+        "text": "Why didn\u0027t I get the full amount back from my OSHC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6785bae0-159c-46c2-8fe8-bba4dc838013",
+    "data": [
+      {
+        "text": "What is the gap fee",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

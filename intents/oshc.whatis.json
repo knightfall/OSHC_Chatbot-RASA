@@ -1,0 +1,31 @@
+{
+  "id": "79ef6bc0-0ecc-44d4-afb8-27f463a80f69",
+  "name": "oshc.whatis",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Overseas Student Health Cover or OSHC, in short, is the health insurance cover that all international students (except from three countries) in Australia has to maintain in order get a student visa and maintain eligibility of the visa."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
