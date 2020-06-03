@@ -305,21 +305,3 @@
 
 ## synonym:you
 - u
-
-## lookup:bolean
-  data/bolean
-
-## lookup:person
-  data/person
-
-## lookup:Policy
-  data/Policy
-
-## lookup:price
-  data/price
-
-## lookup:quote-durationtype
-  data/quote-durationtype
-
-## lookup:medical_items
-  data/medical_items
