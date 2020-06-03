@@ -4,7 +4,6 @@ pipeline:
 - name: SpacyTokenizer
 - name: CRFEntityExtractor
 - name: SpacyFeaturizer
-- name: WhitespaceTokenizer
 - name: RegexFeaturizer
 - name: LexicalSyntacticFeaturizer
 - name: CountVectorsFeaturizer
