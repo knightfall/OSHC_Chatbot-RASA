@@ -243,6 +243,9 @@
 - could you give me a hand
 - help
 
+## intent:smalltalkbot
+- are you human?
+
 ## synonym:Couple Cover
 - yes partner no child
 
