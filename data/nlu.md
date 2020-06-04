@@ -7,35 +7,15 @@
 - what can u do
 - what can you do
 
-## intent:banter.test
+## intent:bantertest
 - test
 
-## intent:Chat.gotNumber-item
-- mbs item
-- item
+## intent:Bye
+- Exit
+- It was nice chatting with [you](person)
+- That's All
 
-## intent:Chat.gotNumber-months
-- month
-
-## intent:Chat.gotNumber-year
-- year
-
-## intent:Chat.gotNumber
-- -[1](number)
-- [1](number)
-- *[455](number)
-- x[22](number)
-
-## intent:Default Welcome Intent - doing fine
-- Ok
-- Fine
-- I am doing alright
-- Doing Fine
-
-## intent:Default Welcome Intent - What can you do
-- What can [you](person) do?
-
-## intent:Default Welcome Intent
+## intent:DWI
 - Yolo
 - Hallo
 - just going to say hi
@@ -54,109 +34,61 @@
 - hi
 - hello there
 - a good day
-- Hello
 
-## intent:info.Allianz
+## intent:infoAllianz
 - allianz
 
-## intent:info.findDoctor
-- doctor
-- Where can I meet a doctor
-
-## intent:info.Medibank
+## intent:infoMedibank
 - what is medibank
 - tell me about medibank
 - Medibank
 
-## intent:MBS.getItemDetails-fee
-- fee
-
-## intent:MBS.getItemDetails
-- what is mbs number 23
-- what is item number [23](item)
-- what is [72](item)
-- what is item [5040](item)
-- tell me about item [23](item)
-
-## intent:MBS.getItemPrice-details
-- info
-
-## intent:MBS.getItemPrice
-- What is the price of  item number [23](item)?
-- cost of [5040](item)
-- How much money can I get back from my test?
-- Item price of [110](item)?
-- How much money can I get back from my doctor visit?
-- price of item [23](item)
-- how much for item [23](item)?
-- How much money will I get back from mbs item [36](item)?
-- What is the price for [23](item)?
-- How much for mbs item [23](item)
-
-## intent:MBS.whatis
+## intent:MBSwhatis
 - MBS
 - what is MBS item?
 - What is item number?
 
-## intent:oshc.ambulance
+## intent:oshcambulance
 - is oshc cover ambulance
 - Does OSHC cover ambulance?
 
-## intent:oshc.coi
+## intent:oshccoi
 - what is a COI
 - where can I get COI
 - COI
 
-## intent:oshc.covers
+## intent:oshccovers
 - what does it cover
 - what does oshc cover
 - What is covered
 - What does OSHC covers?
 
-## intent:oshc.emergency
+## intent:oshcemergency
 - are we cover emergency
 - does the insurance cover emergency
 - is oshc cover emergency
+- does oshc cover emergency
 
-## intent:oshc.exemption
+## intent:oshcexemption
 - Am I exempt from OSHC requirement?
 
-## intent:oshc.extras
+## intent:oshcextras
 - Can I get money back from my dental treatment?
 - Can I get money back for my glasses?
 - Are glasses covered?
 - Are dental checkups covered?
 - Are glasses and lenses covered?
 
-## intent:oshc.eyeTest
+## intent:oshceyeTest
 - Do oSHC cover eye test?
 - eye test
+- does oshc cover eye [tests](medical_items)
 
-## intent:oshc.gapfee
+## intent:oshcgapfee
 - Why didn't I get the full amount back from my OSHC
 - What is the gap fee
 
-## intent:OSHC.GetQuote - fallback
-- 6
-- 45
-- 4
-- 3
-- 1
-- 2
-
-## intent:OSHC.GetQuote
-- can you compare the medibank prices with the other health providers
-- Get me quote for [26 months](duration) [no](partner) partner [no](child) children
-- [26 months](duration) [yes](partner) [no](child)
-- get me a quote
-- hi what is the price for the insurance?
-- Help me to get price of OSHC
-- How much OSHC cost?
-- Cost of getting OHSC
-- How much do I have to pay for OSHC?
-- How much is OSHC?
-
-## intent:oshc.howtoget
+## intent:oshchowtoget
 - where do I get it?
 - how to get it?
 - where can I get OSHC
@@ -164,46 +96,47 @@
 - How can I get it?
 - What is the procedure to have insurance?
 
-## intent:oshc.membershipCard
+## intent:oshcmembershipCard
 - how do I get a membership card
 - membership card
 
-## intent:oshc.payments
+## intent:oshcpayments
 - can the oshc fee be paid in installments?
 - does the premium have to be paid all upfront?
 - Can OSHC premium be paid in instalments?
 
-## intent:oshc.pbs
+## intent:oshcpbs
 - Is prescition covered?
 - Can I get money for my prescription
 - is prescriptions covered?
 - pharmaceutical benefit scheme
 - what is PBS
 
-## intent:oshc.pre-existing
+## intent:oshcpreexisting
 - pre existing condition
 - Pre-existing conditions?
 - explain pre-existing conditions
 
-## intent:oshc.pregnancy
+## intent:oshcpregnancy
 - Does oshc cover pregnancy?
 - Waiting period for pregnancy
 - Is pregnancy a pre-existing condition?
 
-## intent:oshc.providerslist
+## intent:oshcproviderslist
 - list of oshc providers
 - Who provides OSHC in Australia?
 
-## intent:oshc.renewal
+## intent:oshcrenewal
 - should i renew the OSHC before i apply my student visa
 
-## intent:oshc.whatis
+## intent:oshcwhatis
 - i want to know about ohsc
 - ﻿What is OSHC?
 - OSHC
 - health ?
+- what is oshc
 
-## intent:smalltalk.agent.chatbot
+## intent:smalltalkagentchatbot
 - Who r u
 - are you a bot
 - you are chatbot
@@ -214,39 +147,40 @@
 - are you just a bot
 - are you a robot
 
-## intent:waiting periods
+## intent:waitingperiods
 - Explain waiting periods
 - waiting periods
 
-## intent:Should I buy OSHC?
+## intent:ShouldIbuyOSHC
 - Should I buy OSHC?
 - Do I need OSHC?
 
-## intent:oshc.coverage_area
+## intent:oshccoveragearea
 - does oshc cover in [new zealand](geo-country)
 - I am going to [New Zealand](geo-country) for Holiday. Can I use my insurance card in New Zealand?
 - Can I use my OSHC card in [New Zealand](geo-country) if I were sick.
 - Am I covered by OSHC in [USA](geo-country)
 - Can i Use my oshc in [japan](geo-country)
 
-## intent:oshc.partner_cover
+## intent:oshcpartnercover
 - Will my partner be covered
 
-## intent:oshc.psychiatry_cover
+## intent:oshcpsychiatrycover
 - hi , i would like to know is oshc cover mental health consultation?
 - Does OSHC cover mental health consultation?
 - does oshc cover psychiatrist visit?
 - Oshc cover for psychiatric illness?
 
-## intent:oshc.isCovered.medical_items
+## intent:oshcisCoveredmedicalitems
 - do you cover [mri](medical_items)?
 - do I get money back for [fbc](medical_items)
 - Does my oshc cover [blood tests](medical_items)
 - Can I get money back for [ultrasonography](medical_items)
 - Are [ct scans](medical_items) covered?
 - Are [X-rays](medical_items) covered?
+- does oshc cover xray
 
-## intent:smalltalk.agent.answer_my_question
+## intent:smalltalkagentanswermyquestion
 - answer
 - just answer my question
 - answers
@@ -268,29 +202,7 @@
 - can you answer a question for me
 - answer it
 
-## intent:oshc.how_to_claim - Allianz
-- allianz global assistant
-- Allianz OSHC
-- Allianz
-- allianz global assistance
-
-## intent:oshc.how_to_claim-medibank
-- Medibank OSHC
-- Medibank
-
-## intent:oshc.how_to_claim-others
-- CBHS
-- AHM
-- NIB
-- Bupa
-- [no](bolean)
-
-## intent:oshc.how_to_claim
-- how to claim from OSHC
-- How to claim from my provider
-- How to claim my visit
-
-## intent:smalltalk.agent.can_you_help
+## intent:smalltalkagentcanyouhelp
 - can you help me
 - I need you right now
 - I need your help
@@ -330,6 +242,9 @@
 - do you help me
 - could you give me a hand
 - help
+
+## intent:smalltalkbot
+- are you human?
 
 ## synonym:Couple Cover
 - yes partner no child
@@ -393,21 +308,3 @@
 
 ## synonym:you
 - u
-
-## lookup:bolean
-  data/bolean
-
-## lookup:person
-  data/person
-
-## lookup:Policy
-  data/Policy
-
-## lookup:price
-  data/price
-
-## lookup:quote-durationtype
-  data/quote-durationtype
-
-## lookup:medical_items
-  data/medical_items
