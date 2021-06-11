@@ -131,7 +131,7 @@ virtualenv==20.0.20
 virtualenv-clone==0.5.4
 wcwidth==0.1.9
 webexteamssdk==1.3
-websockets==8.1
+websockets==9.1
 Werkzeug==1.0.1
 wrapt==1.12.1
 yarl==1.4.2
