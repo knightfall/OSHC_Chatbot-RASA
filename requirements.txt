@@ -125,7 +125,7 @@ tornado==6.0.4
 tqdm==4.45.0
 twilio==6.26.3
 tzlocal==2.1
-ujson==2.0.3
+ujson==5.2.0
 urllib3==1.26.5
 virtualenv==20.0.20
 virtualenv-clone==0.5.4
